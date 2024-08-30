@@ -14,5 +14,3 @@ bodyEL.addEventListener("mousemove", (event)=> {
         spanEL.remove();
     }, 3000);
 });
-//https://cdn4.iconfinder.com/data/icons/new-year-christmas-nativity-xmas-noel-yule/192/.svg-2-512.png
-//background: url("https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_54-512.png");
